@@ -3,9 +3,9 @@
 # def select_category_from_projects
 # "SELECT category FROM projects;"
 # end
-
 # Make sure each ruby method returns a string containing a valid SQL statement.
 
+#erase all middle 
 def selects_the_titles_of_all_projects_and_their_pledge_amounts_alphabetized_by_title
 "SELECT projects.title, SUM(pledges.amount) FROM projects
     INNER JOIN pledges
