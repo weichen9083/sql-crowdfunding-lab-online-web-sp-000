@@ -1,3 +1,5 @@
+
+
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Ocean Cleanup", "Environment", 400, "6/1/17", "6/30/17");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Cat & Dog Food Drive", "Animals", 500, "6/1/17", "6/30/17");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Toys for Children", "Children", 125, "6/1/17", "6/30/17");
