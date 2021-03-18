@@ -1,4 +1,4 @@
-
+#erase all 
 
 
 CREATE TABLE projects (
